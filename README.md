@@ -27,3 +27,5 @@ albeit with occasional fluctuations, while SBUX share prices will remain relativ
 stable with a slight decline towards the end of the time period. However, it’s
 important to note that forecasting share prices is inherently uncertain, and other
 factors beyond the scope of statistical modeling can also influence share prices.
+
+In Simple words, Its just the tip of the process. More detailed one is coming soon.......
